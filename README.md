@@ -20,6 +20,6 @@
   </p>
 </div>
 </br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauSanchezzz&theme=material-palenight&,dockerfile" alt="PauSanchezzz" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauSanchezzz&theme=material-palenight&,dockerfile&hide=HTML&range=all-time" alt="PauSanchezzz" />
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=PauSanchezzz&show_icons=true&theme=material-palenight" alt="PauSanchezzz" /></p>
 </div>
